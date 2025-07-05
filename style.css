@@ -1,9 +1,21 @@
 * {
   background-color: #f5f4f0;
-  font-family: ;
+  font-family: "Open Sans", sans-serif;
 }
 
 #headline {
   color: #e1624f;
+  font-weight: bold;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
   font-weight: bold;
 }
