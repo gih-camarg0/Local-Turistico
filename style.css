@@ -1,6 +1,11 @@
 * {
   background-color: #f5f4f0;
   font-family: "Open Sans", sans-serif;
+  align-items: center;
+}
+
+.container {
+  width: 1120px;
 }
 
 #headline {
@@ -8,14 +13,23 @@
   font-weight: bold;
 }
 
-h1 {
-  font-weight: bold;
-}
-
-h2 {
-  font-weight: bold;
-}
-
+h1,
+h2,
 h3 {
+  color: #1b1b1b;
+  font-weight: bold;
+}
+
+#description {
+  color: #333333;
+  font-style: italic;
+}
+
+#paragraph {
+  color: #333333;
+}
+
+ul,
+li {
   font-weight: bold;
 }
